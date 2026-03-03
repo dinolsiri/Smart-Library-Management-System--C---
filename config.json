@@ -1,0 +1,5 @@
+{
+  "db_path": "libraflow.db",
+  "fine_per_day": 1.5,
+  "scanner_interval_seconds": 20
+}
